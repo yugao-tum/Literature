@@ -1,5 +1,5 @@
 # Literature
-The study "Increasing crop rotational diversity can enhance cereal yields" by Monique E. Smith et al. explores the impact of crop rotational diversity (CRD) on cereal yields, considering factors like external nitrogen fertilization levels and functional crop groups​​.
+The study "Increasing crop rotational diversity can enhance cereal yields" by Monique E. Smith et al. 2023 explores the impact of crop rotational diversity (CRD) on cereal yields, considering factors like external nitrogen fertilization levels and functional crop groups​​.
 
 Key findings include:
 
@@ -19,7 +19,7 @@ Implications and Future Directions: The study highlights the need for a more div
 
 Overall, the study presents a comprehensive analysis of how increasing crop rotational diversity can enhance cereal yields, emphasizing the importance of incorporating diverse crop species and functional groups into agricultural practices for sustainable and efficient crop production.
 
-The article titled "AI- and data-driven pre-crop values and crop rotation matrices" delves into the topic of crop rotation planning, which is crucial for both organic and conventional agriculture. It aims to optimize soil productivity, crop yield, and resistance to pests and weeds through effective rotation strategies. The paper highlights the importance of understanding which crops to grow in succession to achieve synergistic effects.
+The article titled "AI- and data-driven pre-crop values and crop rotation matrices" Fenz.etc 2023 delves into the topic of crop rotation planning, which is crucial for both organic and conventional agriculture. It aims to optimize soil productivity, crop yield, and resistance to pests and weeds through effective rotation strategies. The paper highlights the importance of understanding which crops to grow in succession to achieve synergistic effects.
 
 Key Points from the Article:
 Research Focus: The study investigates whether yield-enhancing crop combination data, derived from measured, clustered, and standardized NDVI (Normalized Difference Vegetation Index) values, align with existing literature and expert knowledge from long-term field experiments.
@@ -50,7 +50,7 @@ Conclusion: The ELECTS model represents a significant advancement in the field o
 
 This study is a valuable contribution to the field of remote sensing and agricultural monitoring, providing a novel tool for analyzing satellite time series data for crop type classification.
 
-The paper "Crop Rotation Modeling for Deep Learning-Based Parcel Classification from Satellite Time Series" by Quinton and Landrieu focuses on the crucial yet often overlooked role of annual crop rotations in agricultural optimization and crop type mapping. The main purpose of this paper is to model the inter- and intra-annual agricultural dynamics of yearly parcel classification using a deep learning approach, leveraging the increasing quantity of annotated satellite data. This approach led to an improvement of over 6.3% in mean Intersection over Union (mIoU) over the state-of-the-art crop classification and a reduction of over 21% in error rate. Additionally, the paper introduces the first large-scale multi-year agricultural dataset with over 300,000 annotated parcels​​.
+The paper "Crop Rotation Modeling for Deep Learning-Based Parcel Classification from Satellite Time Series" by Quinton and Landrieu 2021 focuses on the crucial yet often overlooked role of annual crop rotations in agricultural optimization and crop type mapping. The main purpose of this paper is to model the inter- and intra-annual agricultural dynamics of yearly parcel classification using a deep learning approach, leveraging the increasing quantity of annotated satellite data. This approach led to an improvement of over 6.3% in mean Intersection over Union (mIoU) over the state-of-the-art crop classification and a reduction of over 21% in error rate. Additionally, the paper introduces the first large-scale multi-year agricultural dataset with over 300,000 annotated parcels​​.
 
 The authors employed several innovative methods for their research and analysis:
 
@@ -74,7 +74,7 @@ Overall Impact: Training a deep learning model from multi-year observations impr
 
 In summary, this paper made significant strides in improving automated crop type mapping by incorporating multi-year data and crop rotation dynamics into a deep learning framework, demonstrating notable improvements in classification accuracy and precision.
 
-The main purpose of the paper "Crop mapping from image time series: Deep learning with multi-scale label hierarchies" by Turkoglu et al. is to map agricultural crops by classifying satellite image time series using a deep learning network architecture that exploits a hierarchical tree structure of crop type labels. This approach significantly improves the mapping of rare crop types by allowing the model to predict three labels at different levels of granularity for each pixel, enhancing classification performance at the fine-grained level​​​​.
+The main purpose of the paper "Crop mapping from image time series: Deep learning with multi-scale label hierarchies" by Turkoglu et al. 2021 is to map agricultural crops by classifying satellite image time series using a deep learning network architecture that exploits a hierarchical tree structure of crop type labels. This approach significantly improves the mapping of rare crop types by allowing the model to predict three labels at different levels of granularity for each pixel, enhancing classification performance at the fine-grained level​​​​.
 
 The methods used in the research include:
 
@@ -94,7 +94,7 @@ Comparison with Baselines: The hierarchical ms-convSTAR outperforms all baseline
 
 In summary, this paper presents a novel approach to crop mapping from satellite image time series, leveraging hierarchical label structures and deep learning techniques to improve classification accuracy, especially for rare crop types. The use of the ZueriCrop dataset provides a realistic scenario for testing and demonstrates the effectiveness of the proposed method over traditional approaches.
 
-The study "Pixel-based yield mapping and prediction from Sentinel-2 using spectral indices and neural networks" by Perich et al. aims to map and predict crop yield on a large scale, particularly in smaller scaled agricultural settings like Switzerland. The study focuses on using high-resolution Sentinel-2 (S2) imagery for within-field crop yield modeling at the pixel level, employing a mix of spectral indices, raw satellite reflectance data, and a recurrent neural network (RNN) approach​​.
+The study "Pixel-based yield mapping and prediction from Sentinel-2 using spectral indices and neural networks" by Perich et al. 2023 aims to map and predict crop yield on a large scale, particularly in smaller scaled agricultural settings like Switzerland. The study focuses on using high-resolution Sentinel-2 (S2) imagery for within-field crop yield modeling at the pixel level, employing a mix of spectral indices, raw satellite reflectance data, and a recurrent neural network (RNN) approach​​.
 
 Key components of the study include:
 
@@ -112,7 +112,7 @@ Discussion: The study demonstrates that precise yield modeling and prediction ar
 
 In summary, the paper presents a comprehensive approach to crop yield modeling using Sentinel-2 data, demonstrating the potential of high-resolution satellite imagery in precision agriculture, especially in smaller agricultural settings. The combination of different modeling methods, including RNNs and spectral indices, provides insights into the possibilities and limitations of current satellite-based yield prediction technologies.
 
-The study "Mapping Crop Rotation by Using Deeply Synergistic Optical and SAR Time Series" by Liu et al. aimed to improve the mapping of crop rotation patterns, a crucial aspect of agricultural management impacting food security and agro-ecosystem sustainability. The main focus was on developing a hybrid deep learning architecture, the Crop Rotation Mapping (CRM) model, which synergizes Synthetic Aperture Radar (SAR) and optical time series data for mapping crop rotations. This approach showed significant improvement over traditional methods, particularly for complex rotation types like fallow-single rice and crayfish-single rice, with an accuracy greater than 0.85 and a gain of four points in overall accuracy compared to ablation models​​​​.
+The study "Mapping Crop Rotation by Using Deeply Synergistic Optical and SAR Time Series" by Liu et al. 2021 aimed to improve the mapping of crop rotation patterns, a crucial aspect of agricultural management impacting food security and agro-ecosystem sustainability. The main focus was on developing a hybrid deep learning architecture, the Crop Rotation Mapping (CRM) model, which synergizes Synthetic Aperture Radar (SAR) and optical time series data for mapping crop rotations. This approach showed significant improvement over traditional methods, particularly for complex rotation types like fallow-single rice and crayfish-single rice, with an accuracy greater than 0.85 and a gain of four points in overall accuracy compared to ablation models​​​​.
 
 Key aspects of the study include:
 
@@ -128,7 +128,7 @@ Results and Sensitivity Analysis: The CRM model, using kNDVI as the vegetation i
 
 In conclusion, the study demonstrated the effectiveness of the CRM model in mapping crop rotations using a combination of SAR and optical time series data. The model's ability to leverage complementary signals from different sensors and the use of deep learning frameworks enabled it to capture complex intra-annual rotation information suitable for diverse crop types and flexible farming practices. The research highlights the potential of advanced deep learning techniques in enhancing the precision and utility of agricultural mapping systems, especially in the context of dynamic crop rotation mapping​​.
 
-The paper "Crop switching can enhance environmental sustainability and farmer incomes in China" by Xie et al. explores the impact of crop switching on various sustainability dimensions in China. The main purpose of the study is to evaluate if strategic crop switching can lead to more sustainable cropping systems and to understand the necessity of coordinated actions to avoid trade-offs between different sustainability objectives.
+The paper "Crop switching can enhance environmental sustainability and farmer incomes in China" by Xie et al. 2023 explores the impact of crop switching on various sustainability dimensions in China. The main purpose of the study is to evaluate if strategic crop switching can lead to more sustainable cropping systems and to understand the necessity of coordinated actions to avoid trade-offs between different sustainability objectives.
 
 Key findings and insights of the study include:
 
@@ -142,7 +142,7 @@ Spatially Detailed Solutions: The study emphasizes the importance of spatially d
 
 The paper concludes that crop switching is a viable strategy to achieve sustainable development targets in China while improving farmer incomes and maintaining national production. It underscores the need for large-scale coordination and inter-ministry cooperation to realize these benefits, especially in a country like China with a centralized planning government. The study provides detailed, actionable evidence for policy-making and the implementation of sustainable agricultural interventions.
 
-The paper "Enhanced agricultural sustainability through within-species diversification" by Li-Na Yang and colleagues explores the impact of within-species diversification in agriculture, focusing specifically on potato cultivation. The main purpose of the study is to investigate how diversification within a single species, like different potato varieties, can enhance agricultural sustainability. The study examines the effects on yield, disease resistance, soil health, and pathogen evolution.
+The paper "Enhanced agricultural sustainability through within-species diversification" by Li-Na Yang 2023 explores the impact of within-species diversification in agriculture, focusing specifically on potato cultivation. The main purpose of the study is to investigate how diversification within a single species, like different potato varieties, can enhance agricultural sustainability. The study examines the effects on yield, disease resistance, soil health, and pathogen evolution.
 
 Key methods used in the study include:
 
